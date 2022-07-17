@@ -1,0 +1,54 @@
+.content .row .col-12 .row .col-12 button
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#secondrow #secondrowfirstcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+#secondrow #secondrowfirstcolumn{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#secondrow #secondrowsecondcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+#secondrow #secondrowsecondcolumn {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+#thirdrow #thirdrowfirstcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+#thirdrow #thirdrowfirstcolumn{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+#thirdrow #thirdrowsecondcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+#thirdrow #thirdrowsecondcolumn {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#secondrow,#thirdrow{
+    display: none;
+}
+
+
+

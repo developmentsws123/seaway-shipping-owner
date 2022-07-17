@@ -1,0 +1,140 @@
+#href{
+    color: wheat;
+}
+#sliderboat{
+    height: 650px;
+}
+.carousel-inner
+{
+    height: 650px;
+}
+#boatlisting .row .col-6 h4{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+#boatlisting .row .col-6 h5{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center;
+    border-bottom: 1px solid black; */
+    margin: 10px 0px;
+    font-weight: bold;
+
+}
+#boatlisting .row .col-6 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center;
+    border-bottom: 1px solid black; */
+}
+#boatlisting .row .col-6 .row .col input {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center;
+    border-bottom: 1px solid black; */
+}
+#boatlisting .row .col-6 .row .col button {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center;
+    border-bottom: 1px solid black; */
+}
+#applysliderzindex
+{
+    position: relative;
+    z-index: -2;
+}
+#applyzindex{
+    position: relative;
+    top:-181px;
+   
+}
+#crousel
+{
+    height:auto;
+}
+.card{
+    margin: 0px 15px;
+    cursor: pointer;
+   
+}  
+.card-body button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+#boatspecification h4{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#boatspecification h5{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#boatspecification{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#BoatDayTripAmenties h4{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#BoatDayTripAmenties h5{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#BoatDayTripAmenties{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#selectbookingbutton button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+#boatpostdetail 
+{
+    display: none;
+}
+#selectbookingbutton .row .col-12 .row .col input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#selectbookingbutton .row .col-12 .row .col select{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formsubmit button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#selectboatform{
+    display: none;
+}
+#signupform{
+    display: none;
+}
+#boatownerpostdetail{
+    position: relative;
+}
+#signupform{
+    position: absolute;
+    top:7%;
+    background-color: #063e6e;
+    display: none;
+}
+#Loginform{
+    position: absolute;
+    top:7%;
+    background-color: #063e6e;
+    display: none;
+}
+
+
+

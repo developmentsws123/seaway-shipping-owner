@@ -1,0 +1,27 @@
+.mainrowofboatcontent{
+    min-height: 500px;
+}
+#paypall{
+    display: none;
+}
+#Boatform .row .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+#Boatform .row .col h3{
+    font-size: 28px;
+    font-family: arial;
+}
+#Boatform .row .col-lg-6 button{
+    font-size: 18px;
+    font-family: arial;
+}
+
+#daytripform
+{
+    display: none;
+}
+#daytripeightcolumn
+{
+    display: block;
+}

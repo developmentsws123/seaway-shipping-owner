@@ -1,0 +1,70 @@
+#createeventrow button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#firstrowofsecondroweventyacht  .col  input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#secondrowofsecondroweventyachtformcolumn  .col ,label,input
+{
+
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#thirdrowforselect .col select
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#thirdrowforselect .col label
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fourthrowforbutton .col button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#secondrowyacht{
+    display: none;
+}
+#heading h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#roundcolumn input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#roundrangecolumn input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#roomdetailcolumn textarea
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#extrafacilitiescolumn textarea{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#discountpricecolumn input
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#basicpackagenextbuttoncolumn button{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#thirdrowforofbasicpakageofevent{
+    display: none;
+}
+#fourthrowforofbasicpakageofevent 
+{
+    display: none;
+}

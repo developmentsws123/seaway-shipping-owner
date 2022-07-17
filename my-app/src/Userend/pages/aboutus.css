@@ -1,0 +1,46 @@
+#loction{
+    border-radius: 70px;
+   
+}
+#search{
+    color: blue;
+}
+#birthday{
+    width: 100%;
+    height: 350px;
+}
+#wedding{
+
+            height: 350px;    
+}
+#event{
+height: 350px;
+}
+#holiday{
+    height: 350px;
+}
+#newyear{
+    height: 350px;
+}
+#purposel{
+    height: 350px;
+}
+#wedding
+{
+    width: 100%;
+    
+}
+#event
+{
+    width: 100%;
+
+}
+#holiday{
+    width: 100%;
+}
+#purposel{
+    width: 100%;
+}
+.list-group-item h4{
+    font-size: 18px;
+}

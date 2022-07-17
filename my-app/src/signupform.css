@@ -1,0 +1,321 @@
+#maindiv {
+  border: 1px solid black;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../src/img/peakpx.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+ }
+#maindiv #form {
+  border: 1px solid black;
+  width: 55%;
+  /* height: 400px; */
+  display: flex;
+  flex-direction: column;
+  background-color: #0d1816c2;
+  opacity: 0.9;
+}
+#form #heading {
+  /* border: 1px solid black; */
+  width: 90%;
+  height: 72px;
+  font-family: arial;
+  text-align: center;
+  margin: auto;
+  color: black;
+  box-sizing: border-box;
+  padding: 14px 0px;
+  color: white;
+  display: none;
+}
+#form #signup {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: none;
+}
+#signup form {
+  display: flex;
+  /* justify-content: center; */
+  width: 100%;
+  margin: auto;
+  height: auto;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#hr1 {
+  width: 97%;
+  display: none;
+  margin: auto;
+}
+
+form input {
+  border: 1px solid black;
+  width: 47%;
+  height: 46px;
+  font-size: 18px;
+  box-sizing: border-box;
+  font-family: arial;
+  margin: 8px 0px;
+}
+form input[type='text'],
+form input[type='password'],
+form input[type='email'] {
+  background-color: #22272cbf;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #b1a8a89e;
+  color: #faebd7f2;
+}
+input::placeholder {
+  color: rgb(201, 194, 194);
+}
+#signup button {
+  /* border: 1px solid black; */
+  width: 97%;
+  height: 35px;
+  font-size: 20px;
+  font-family: arial;
+  background-color: #f8fffdd9;
+  margin: auto;
+  cursor: pointer;
+
+  box-sizing: border-box;
+}
+#signup button:hover {
+  background-color: crimson;
+  color: #f5f0f0;
+}
+#getdatausingapi {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0px;
+  row-gap: 5px;
+  display: none;
+}
+#getdatausingapi button {
+  /* border: 1px solid black; */
+  width: 97%;
+  height: 46px;
+  font-size: 18px;
+  box-sizing: border-box;
+  font-family: arial;
+  margin: auto;
+  cursor: pointer;
+}
+#facebook {
+  background-color: #1e3999fc;
+  color: white;
+  font-weight: 600;
+}
+#google {
+  background-color: #205a8d;
+  color: #f5f0f0;
+  font-weight: 600;
+}
+fa-google:before {
+  content: '\f1a0';
+  font-size: 17px;
+}
+.fa-facebook-f:before {
+  content: '\f39e';
+  /* border: 1px solid black; */
+  /* display: block; */
+  font-size: 18px;
+}
+#Heading1 {
+  /* border: 1px solid black; */
+  width: 90%;
+  height: 65px;
+  font-size: 18px;
+  font-family: arial;
+  text-align: center;
+  margin: auto;
+  padding: 19px 0px;
+  box-sizing: border-box;
+  color: white;
+}
+#hr {
+  display: block;
+  width: 80%;
+}
+#login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+}
+#login form {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#login form input {
+  border: 1px solid black;
+  width: 100%;
+  height: 54px;
+  background: #33333a94;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+  margin: 5px 0px;
+}
+#login button {
+  /* border: 1px solid black; */
+  width: 80%;
+  height: 40px;
+  font-size: 20px;
+  font-family: arial;
+  cursor: pointer;
+}
+#logingetdataapi {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 4px 0px;
+}
+#logingetdataapi button {
+  /* border: 1px solid black; */
+  width: 80%;
+  height: 40px;
+  font-size: 18px;
+  font-family: arial;
+  /* margin: 6px 0px; */
+  margin-top: 3px;
+  cursor: pointer;
+}
+#facebook1 {
+  background-color: #1e3999fc;
+  color: white;
+  font-weight: 600;
+}
+#google1 {
+  background-color: #205a8d;
+  color: #f5f0f0;
+  font-weight: 600;
+}
+#CreateAccount {
+  background-color: #7e3929bf;
+  color: #c79d27;
+  font-weight: 700;
+}
+#CreateAccount:hover {
+  background-color: #b1a8a89e;
+  color: #faebd7f2;
+}
+#resp{
+  border: 3px solid rgb(252, 252, 252);
+  width: 55%;
+  height: 35px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+@media screen and (max-width: 992px) and (min-width: 672px) {
+  #maindiv #form {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 671px) {
+  #maindiv #form {
+    width: 95%;
+    height: 518px;
+  }
+
+  #form #heading {
+    width: 90%;
+    height: 47px;
+    font-family: arial;
+    text-align: center;
+    margin: auto;
+    color: black;
+    box-sizing: border-box;
+    padding: 5px 0px;
+    color: white;
+    display: none;
+  }
+  form input {
+    border: 1px solid black;
+    width: 97%;
+    height: 40px;
+    font-size: 18px;
+    box-sizing: border-box;
+    font-family: arial;
+    margin: 8px 0px;
+  }
+  #signup button {
+    /* border: 1px solid black; */
+    width: 97%;
+    height: 37px;
+    font-size: 20px;
+    font-family: arial;
+    background-color: #f8fffdd9;
+    margin: auto;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+
+  #getdatausingapi button {
+    /* border: 1px solid black; */
+    width: 97%;
+    height: 40px;
+    font-size: 18px;
+    box-sizing: border-box;
+    font-family: arial;
+    margin: auto;
+    cursor: pointer;
+  }
+  #login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 15px;
+  }
+
+  #hr {
+    display: block;
+    width: 95%;
+  }
+  #login form {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #login button {
+    /* border: 1px solid black; */
+    width: 95%;
+    height: 50px;
+    font-size: 20px;
+    font-family: arial;
+    cursor: pointer;
+  }
+  #logingetdataapi button {
+    /* border: 1px solid black; */
+    width: 95%;
+    height: 50px;
+    font-size: 18px;
+    font-family: arial;
+    /* margin: 6px 0px; */
+    margin-top: 3px;
+    cursor: pointer;
+    font-family: cursive;
+  }
+  #Heading1 {
+    width: 90%;
+    margin: 0px auto;
+    height: 69px;
+    padding: 19px 0px;
+  }
+}

@@ -1,0 +1,13 @@
+#btn{
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+    color: white;
+    
+}
+#btn:hover{
+    /* height: 8px; */
+    /* font-size: 23px; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

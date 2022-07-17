@@ -1,0 +1,41 @@
+.row .menu{
+    min-height: 550px;
+
+}
+.menu ul li a{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+
+    
+}
+
+.menu ul li .navbar:hover{
+    background-color: saddlebrown;
+    border-radius: 0px;
+    color:rgb(33, 33, 33);
+    opacity: 0.7;
+
+    border: none;
+}
+.menu ul li .navbar{
+    /* color:white; */
+    color: rgb(251, 248, 248);
+    /* border: solid; */
+    /* padding: inherit; */
+    /* padding: 4px; */
+    /* background: cornflowerblue; */
+
+}
+.menu ul li ul li .sub{
+    color:white;
+}
+.menu ul li ul li .sub:hover{
+    background-color: red;
+    border-radius: 0px;
+    color:rgb(33, 33, 33);
+    opacity: 0.4;
+}
+
+.nes{
+    display: none;
+}

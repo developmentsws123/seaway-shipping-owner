@@ -1,0 +1,15 @@
+.container-fluid .row .resnav ul li a{
+    /* font-family:Arial, Helvetica, sans-serif; */
+    color: white;
+    }
+    
+    /* .container-fluid .row .resnav ul li ul {
+        background-color: black;
+    } */
+    /* .container-fluid .row .resnav{
+        background-color: black;
+    
+    } */
+    .container-fluid .row #res{
+        display: none;
+    }

@@ -1,0 +1,40 @@
+.content .row .col-6 .row .col-6{
+    font-size: 18px;
+    font-family: arial;
+}
+.content .row .col-12 h3
+{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#buttoncolumn button{
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 10px;
+}
+#secondrowboatlisting,#secondrowboatlistingfirstcolumn,#secondrowboatlistingsecondcolumn
+{
+    display: none;
+}
+#secondrowboatlistingfirstcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+#secondrowboatlistingfirstcolumn{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#secondrowboatlistingsecondcolumn h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 25px 0px;
+}
+#secondrowboatlistingsecondcolumn{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}

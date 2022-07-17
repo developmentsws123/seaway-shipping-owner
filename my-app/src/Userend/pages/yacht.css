@@ -1,0 +1,335 @@
+.yachname {
+  border: 1px solid black;
+  display: block;
+}
+
+#yachtprofilesall .col-12 .row .col-4 h4 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+#yachtprofilesall .col-12 .row .col-4 h5 {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 10px 0px;
+}
+#yachtprofilesall .col-12 .row .col-4 {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#yachtbookingform button{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#yachtprofilesall .col-12 .row .col-6 h4 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+#yachtprofilesall .col-12 .row .col-6 h5 {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 0px;
+  font-weight: bold;
+}
+#yachtprofilesall .col-12 .row .col-6 {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#selectbooking .row .col input {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#selectbooking .row .col select {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* #selectRoom,#Viproomrow,#Normalroomrow,#daytriproundrow,#nighttriproundrow
+{
+    display: none;
+} */
+#yachtlisting0,
+#yachtlisting1,
+#yachtlisting2,
+#yachtlisting3,
+#yachtlisting4,
+#yachtlisting5 {
+  display: none;
+}
+.cards-wrapper {
+  display: flex;
+}
+.card {
+  width: 100%;
+  margin: 0px 25px;
+}
+.card-body p b {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-body p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-body .btn {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+#slider {
+  position: relative;
+  z-index: -2;
+  border: none;
+}
+#profiles {
+  position: relative;
+  top: -181px;
+  left: 0px;
+  right: 0px;
+  /* z-index: -2; */
+}
+#profile {
+  border-radius: 20px;
+}
+.loader-container {
+  height: 80vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  /* background-color: blue; */
+  /* position: absolute;
+  /* top: 50%; */
+  /* right: 50%; */
+  /* left: 0;
+  right: 0; */
+}
+#postdetail,#nightandselectbookinggform{
+  display: none
+}
+#yachtspecification h4{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+#yachtspecification h5{
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 10px 0px;
+
+}
+#yachtspecification {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#yachtamenities h4{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+#yachtamenities h5{
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 10px 0px;
+
+
+}
+#yachtamenities {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+#yachtdaytrip h4{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+#yachtdaytrip h5{
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 10px 0px;
+
+}
+#yachtdaytrip {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#yachtnighttrip h4{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+
+}
+#yachtnighttrip h5{
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 10px 0px;
+
+
+}
+#yachtnighttrip {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+
+}
+#RoomVipandNormal,#daytripnormalroomrow,#daytripviproomrow,#Nighttripnormalroomrow,#Nighttripviproomrow,#DayTripRoundDetail,#NightTripRoundDetail{
+  display: none;
+}
+/* #yachtspecification,#yachtamenities,#yachtdaytrip,#yachtnighttrip,#selectbooking{
+  position: relative;
+  z-index: -2;
+} */
+#individualpost{
+  position: relative;
+
+}
+#signupform1{
+  position: absolute;
+  top:60%;
+  background-color: #256399;
+  display: none;
+
+}
+#firstname label{
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+#firstname input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+#lastname label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#lastname input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#username label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#username input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#Gmail label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+}
+#Gmail input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#password label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#password input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#confirmpassword label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#confirmpassword input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#signupsubmitbutton button{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+#signupresetbutton button
+{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+#Signupcolumn h4{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#signupcreatebutton button
+{
+  width: 100%;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+#loginUsername label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#loginUsername input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#login1password label{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+#loginpassword input{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#loginbutton button{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+#loginreset button{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+
+}
+#Loginform1{
+  position: absolute;
+  top:60%;
+  background-color: #063e6e;
+  display: none;
+}
+#logincolumn h4{
+
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+#selectbookingofyachtform{
+  display: none;
+}
+

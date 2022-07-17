@@ -1,0 +1,200 @@
+
+/* display:none coding of  #methodnumber start from here */
+
+
+
+/* display:none coding of  #methodnumber close from here */
+
+/* display:none coding of  #paypall start from here */
+
+.container-fluid .yachtpage .content .yach #ownerpform .row #paypall{
+    display: none;
+}
+
+/* display:none coding of  #paypall start from here */
+
+
+.container-fluid .row .content .yach{
+    min-height: 500px;
+}
+#ownerpform h3{
+    
+    font-family: arial;
+
+}
+#ownerpform .row .col-md input{
+    font-size: 18px;
+    font-family: arial;
+
+}
+#ownerpform .row .col input{
+    font-size: 18px;
+    font-family: arial;
+
+}
+
+#ownerpform .row .col select{
+    font-size: 18px;
+    font-family: arial;
+
+}
+#ownerpform .row .col textarea{
+    font-size: 18px;
+    font-family: arial;
+
+}
+#ownerpform .row .col input:focus{
+    border: none;
+    
+    
+}
+#ownerpform .row .col-2 button{
+    font-family: arial;
+  
+    
+}
+.container-fluid .yachtpage .content .yach .yachtvesselsame .firstrow .yachtheading h3{
+    font-family: arial;
+    
+}
+#next1{
+    font-family: arial;
+}
+.yachtvesselsame .secondrow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+.yachtvesselsame .secondrow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+.yachtvesselsame .thirdrow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+.yachtvesselsame .fourthrow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+.yachtvesselsame .fifthrow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+
+.yachtvesselsame .sixthrow .col-lg-6 button{
+    font-size: 18px;
+    font-family: arial;
+}
+.yachtvesselsame #simplerow .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+}
+
+.yachtamenitiesform .secondrowamenities .Roomcolumn{
+    display:none;
+}
+.yachtamenitiesform .row .col-lg input{
+    font-size: 18px;
+    font-family: arial;
+
+}
+.yachtamenitiesform .row label{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yachtamenitiesform .row .col h3{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.yachtamenitiesform .row .col button{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#thirdrowamenities ,#fourthrowamenities,#fifthrowamenities,#ninthrowamenities{
+    display: none;
+}
+#yachtamenitiesform{
+    display: none;
+}
+#daytripform .row .col-lg  input{
+    font-size: 18px;
+    font-family: arial;
+}
+#daytripform .row .col-lg  select{
+    font-size: 18px;
+    font-family: arial;
+}
+#daytripform .row .col h3{
+    font-size: 28px;
+    font-family: arial;
+}
+#daytripform .row .col-lg label{
+    font-size: 18px;
+    font-family: arial;
+}
+#daytripform .row .col button{
+    font-size: 18px;
+    font-family: arial;
+}
+#daytripninthcolumn,#daytripeleventhcolumn ,#daytripthirtheencolumn{
+    display: none;
+
+}
+#daytripeightcolumn , #daytripfifthrow,#daytripsixthrow ,#moreextrafacilities{
+    display: none;
+}
+#daytripseventhrow {
+    display: none;
+}
+#daytripeightrow ,#daytripninthrow{
+    display: none;
+}
+#daytripsixtheencolumn,#daytripseventheencolumn ,#daytripeightheencolumn,#daytripnintheencolumn{
+    display: none;
+}
+#daytripform{
+    display: none;
+}
+#yachtovernightform .row .col-lg input{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yachtovernightform .row .col-lg label{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yachtovernightform .row .col input{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yachtovernightform .row .col-lg textarea{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yachtovernightform .row .col h3{
+    font-size:28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yachtovernightform .row .col button{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#writetypeofovernightextrafacilityonyacht
+{
+    display: none;
+}
+#overnighteigthrow ,#overnightseventhrow{
+    display: none;
+}
+#overnighttenthcolumn,#overnighteleventhcolumn,#overnight12column,#overnightthirteencolumn
+{
+    display: none;
+}
+#overnightsixthrow,#overnightninthcolumn{
+    display: none;
+}
+#yachtovernightform
+{
+    display: none;
+}

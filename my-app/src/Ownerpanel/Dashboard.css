@@ -1,0 +1,20 @@
+.reporting , .Rating
+{
+min-height: 300px;
+}
+.reporting{
+    background-image: url("../img/reporting.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    font-size: 25px;
+    font-family: arial;
+    padding: 65px 0px;
+}
+.Rating{
+    background-image: url("../img/rating.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 25px;
+    font-family: arial;
+    padding: 65px 0px;
+}

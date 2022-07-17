@@ -1,0 +1,75 @@
+#bgclr{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    z-index: 2px;
+    
+}
+#contaner{
+position: absolute;
+z-index: 1px;
+top: 150px;
+left:0%;
+right: 0%;
+background-color: white;
+border-radius: 20px;
+
+}
+.col-2:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#col6{
+    display: none;
+}
+#edit{
+    display: none;
+}
+#chose{
+    display: none;
+}
+
+#nopathimg{
+    display: none;
+}
+#changepass{
+    display: none;
+}
+
+#varifying{
+    display: none;
+}
+#passvarify{
+    display: none;
+} 
+#Emailid h5
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#UserEmail
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#buttonsendcode a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;;
+}
+#codelabel h5
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#verificationbutton #btnverify
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+

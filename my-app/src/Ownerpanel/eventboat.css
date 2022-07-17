@@ -1,0 +1,80 @@
+#buttonofcreateeventofboat button{
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#eventnameboatcolumn input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#eventdaysboatcolumn input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#eventstartingdateboatcolumn input
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#eventendingdateboatcolumn input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#eventselectboatlistingcolumn label
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#eventselectboatlistingcolumn select
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#secondrowofboat{
+    display: none;;
+}
+#thirdrowforofbasicpakageofevent
+{
+    display: none;
+}
+#roundcolumnboat input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#roundrangecolumnboat input
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#discountpricecolumnboat input
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#extrafacilitiescolumnboat textarea
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fourthrowforofbasicpakageofevent
+{
+    display: none;
+}
+#roundcolumnpremiumboat input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#roundrangecolumnpremiumboat input{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#discountpricecolumnpremiumboat input 
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#extrafacilitiescolumnpremiumboat textarea {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
